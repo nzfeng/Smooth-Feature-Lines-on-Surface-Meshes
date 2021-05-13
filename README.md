@@ -4,7 +4,7 @@ This is a python implementation of [smooth feature line on surface mesh](https:/
 
 ## Tasks
      1. Compute discrete extremality coefficients
-     2. Smooth them
+     2. Smooth the extremalities
      3. Trace feature lines in regular triangles
      4. Process singular triangles
      5. Remove small ridges by a threshold filter
