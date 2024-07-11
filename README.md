@@ -1,4 +1,5 @@
-This repo originated from @keruwang. I'm not sure what happend to the original repo.
+Note: This repo originated from @keruwang. I'm not sure what happend to the original repo. 
+------------------------------------------------------------------------------------------
 
 # Extract Smooth Feature Lines from Surface Mesh
 
